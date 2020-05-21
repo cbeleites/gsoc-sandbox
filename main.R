@@ -12,3 +12,5 @@ library(hyperSpec.tidyverse)
 
 # Plot some spectra
 qplotspc(chondro)
+
+print('Package Sandbox v0.1')
