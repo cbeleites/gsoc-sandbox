@@ -1,5 +1,7 @@
-# Install hyperSpec, covr, and lintr packages from CRAN
+# Install hyperSpec, testthat, pkgdown, covr, and lintr packages from CRAN
 install.packages("hyperSpec")
+install.packages("testthat")
+install.packages("pkgdown")
 install.packages("lintr")
 install.packages("covr")
 
